@@ -3,7 +3,7 @@
   "short_name": "Budget Tracker",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/",
   "description": "With Budget Tracker you can track your expenses.",
   "background_color": "#000",
   "theme_color": "#ff007f",
