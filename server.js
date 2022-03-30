@@ -21,6 +21,11 @@ mongoose.connect(MONGODB_URI, {
   useFindAndModify: false
 });
 
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/PWA-budget-tracker', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+});
+
 // routes
 app.use(require("./routes/api.js"));
 
