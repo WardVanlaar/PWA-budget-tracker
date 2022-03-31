@@ -12,7 +12,7 @@
 
 
 ## Description
-With this simple App you can track your budget. It is built as a Progressive Web Application (PWA) so you can install as a native App on your device.
+With this simple App you can track your budget. It is built as a Progressive Web Application (PWA) so you can install it as a native App on your device.
 
 Programming languages used:
 * HTML
