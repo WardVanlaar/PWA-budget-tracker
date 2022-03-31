@@ -24,7 +24,11 @@ Programming languages used:
 Clone this repo, run npm install and type npm start in the terminal.
 
 ## Usage
-The App allows you to enter transactions and either add or subtract them so you can keep track of your budget.
+The App allows you to enter transactions and either add or subtract them so you can keep track of your budget. Follow this link to try it out: https://pwa2-budget-tracker.herokuapp.com/
+
+It should look like this:
+
+![image](https://user-images.githubusercontent.com/91222837/161105287-42a81e1e-45b4-4b11-a7e3-a0eebcc4969e.png)
 
 ## License
 This App is covered under the following license: MIT
